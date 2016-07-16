@@ -14,6 +14,7 @@ Hardware Implementation of AES cipher based on (FIPS) 197
 
 # Software Requirements
 • Vivado 2014.x (compile SystemVerilog and Verilog code)
+
 • Device settings (select a board that has the minimum number of ports). Required to perform functional verification.
 
 

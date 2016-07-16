@@ -27,7 +27,7 @@
 	
 	Create Date:  04/23/2016 11:08:59 PM
 	Project Name: AES hardware implementation
-	Description:
+	Description:  AES cipher
 	
         CMPE 297    
 
